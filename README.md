@@ -1,1 +1,1 @@
-# Java-Project
+Login data implementation in Java language
